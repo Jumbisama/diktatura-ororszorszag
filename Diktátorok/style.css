@@ -1,0 +1,12 @@
+#orosz {
+    width: 1000px;
+    margin: auto;
+}
+.balra {
+    float: left;
+    margin-right: 10px;
+}
+.jobbra {
+    float: right;
+    margin-left: 10px;
+}
